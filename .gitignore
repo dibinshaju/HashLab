@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pot
+*.potfile
+rockyou.txt
+*.txt.bak
